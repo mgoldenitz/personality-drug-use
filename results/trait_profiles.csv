@@ -1,0 +1,64 @@
+Substance,Trait,Users_mean,Never_mean,Users_n,Never_n,Cohens_d
+Alcohol,Neuroticism,-0.005,-0.093,1742,33,0.088
+Alcohol,Extraversion,0.009,0.059,1742,33,-0.049
+Alcohol,Openness,0.003,-0.051,1742,33,0.054
+Alcohol,Agreeableness,-0.007,0.189,1742,33,-0.196
+Alcohol,Conscientiousness,-0.007,0.242,1742,33,-0.25
+Alcohol,Impulsivity,0.012,-0.412,1742,33,0.444
+Alcohol,Sensation seeking,0.015,-0.592,1742,33,0.632
+Nicotine,Neuroticism,0.111,-0.168,1053,428,0.278
+Nicotine,Extraversion,-0.021,0.059,1053,428,-0.079
+Nicotine,Openness,0.187,-0.304,1053,428,0.495
+Nicotine,Agreeableness,-0.098,0.206,1053,428,-0.302
+Nicotine,Conscientiousness,-0.207,0.288,1053,428,-0.512
+Nicotine,Impulsivity,0.196,-0.343,1053,428,0.572
+Nicotine,Sensation seeking,0.262,-0.464,1053,428,0.784
+Cannabis,Neuroticism,0.102,-0.185,991,413,0.286
+Cannabis,Extraversion,-0.025,0.091,991,413,-0.114
+Cannabis,Openness,0.362,-0.579,991,413,1.042
+Cannabis,Agreeableness,-0.123,0.27,991,413,-0.397
+Cannabis,Conscientiousness,-0.265,0.45,991,413,-0.755
+Cannabis,Impulsivity,0.269,-0.448,991,413,0.796
+Cannabis,Sensation seeking,0.396,-0.653,991,413,1.245
+Benzos,Neuroticism,0.36,-0.213,532,999,0.59
+Benzos,Extraversion,-0.102,0.08,532,999,-0.182
+Benzos,Openness,0.298,-0.2,532,999,0.508
+Benzos,Agreeableness,-0.243,0.132,532,999,-0.382
+Benzos,Conscientiousness,-0.292,0.189,532,999,-0.486
+Benzos,Impulsivity,0.325,-0.182,532,999,0.554
+Benzos,Sensation seeking,0.387,-0.2,532,999,0.638
+Amphet,Neuroticism,0.232,-0.101,433,973,0.333
+Amphet,Extraversion,-0.051,0.039,433,973,-0.091
+Amphet,Openness,0.387,-0.231,433,973,0.626
+Amphet,Agreeableness,-0.248,0.123,433,973,-0.376
+Amphet,Conscientiousness,-0.397,0.197,433,973,-0.598
+Amphet,Impulsivity,0.479,-0.229,433,973,0.766
+Amphet,Sensation seeking,0.551,-0.304,433,973,0.952
+Coke,Neuroticism,0.212,-0.115,414,1036,0.335
+Coke,Extraversion,0.101,0.012,414,1036,0.089
+Coke,Openness,0.285,-0.187,414,1036,0.476
+Coke,Agreeableness,-0.311,0.155,414,1036,-0.475
+Coke,Conscientiousness,-0.316,0.178,414,1036,-0.505
+Coke,Impulsivity,0.419,-0.203,414,1036,0.675
+Coke,Sensation seeking,0.542,-0.26,414,1036,0.878
+Ecstasy,Neuroticism,0.068,-0.093,513,1020,0.162
+Ecstasy,Extraversion,0.15,-0.025,513,1020,0.178
+Ecstasy,Openness,0.408,-0.263,513,1020,0.704
+Ecstasy,Agreeableness,-0.143,0.109,513,1020,-0.255
+Ecstasy,Conscientiousness,-0.296,0.217,513,1020,-0.533
+Ecstasy,Impulsivity,0.363,-0.222,513,1020,0.635
+Ecstasy,Sensation seeking,0.549,-0.331,513,1020,1.004
+Mushrooms,Neuroticism,0.031,-0.068,428,982,0.1
+Mushrooms,Extraversion,0.077,0.016,428,982,0.061
+Mushrooms,Openness,0.575,-0.326,428,982,0.966
+Mushrooms,Agreeableness,-0.146,0.128,428,982,-0.275
+Mushrooms,Conscientiousness,-0.266,0.189,428,982,-0.466
+Mushrooms,Impulsivity,0.369,-0.24,428,982,0.67
+Mushrooms,Sensation seeking,0.557,-0.33,428,982,0.995
+LSD,Neuroticism,-0.007,-0.062,376,1069,0.055
+LSD,Extraversion,0.074,0.04,376,1069,0.034
+LSD,Openness,0.635,-0.289,376,1069,0.995
+LSD,Agreeableness,-0.093,0.115,376,1069,-0.211
+LSD,Conscientiousness,-0.215,0.151,376,1069,-0.367
+LSD,Impulsivity,0.337,-0.204,376,1069,0.585
+LSD,Sensation seeking,0.598,-0.293,376,1069,1.001

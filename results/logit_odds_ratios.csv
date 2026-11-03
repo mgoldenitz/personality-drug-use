@@ -1,0 +1,64 @@
+Substance,Group,Trait,OR,CI_low,CI_high,p,n,Pseudo_R2,p_holm
+Alcohol,Legal,Neuroticism,0.862,0.6902,1.0766,0.1904,1877,0.0479,1.0
+Alcohol,Legal,Extraversion,1.1021,0.8779,1.3836,0.4021,1877,0.0479,1.0
+Alcohol,Legal,Openness,0.8623,0.6991,1.0635,0.1662,1877,0.0479,1.0
+Alcohol,Legal,Agreeableness,0.9185,0.7532,1.1202,0.4014,1877,0.0479,1.0
+Alcohol,Legal,Conscientiousness,0.8686,0.6972,1.0823,0.2094,1877,0.0479,1.0
+Alcohol,Legal,Impulsivity,0.8366,0.6512,1.0747,0.1627,1877,0.0479,1.0
+Alcohol,Legal,Sensation seeking,1.4608,1.1152,1.9133,0.0059,1877,0.0479,0.231
+Nicotine,Legal,Neuroticism,1.0793,0.951,1.225,0.2373,1877,0.1657,1.0
+Nicotine,Legal,Extraversion,0.9502,0.8348,1.0816,0.4398,1877,0.1657,1.0
+Nicotine,Legal,Openness,1.2988,1.1529,1.4632,0.0,1877,0.1657,0.0009
+Nicotine,Legal,Agreeableness,0.9804,0.8756,1.0977,0.7314,1877,0.1657,1.0
+Nicotine,Legal,Conscientiousness,0.7954,0.7017,0.9016,0.0003,1877,0.1657,0.0158
+Nicotine,Legal,Impulsivity,0.9815,0.8492,1.1345,0.8009,1877,0.1657,1.0
+Nicotine,Legal,Sensation seeking,1.4821,1.2705,1.7289,0.0,1877,0.1657,0.0
+Cannabis,Cannabis,Neuroticism,0.8883,0.765,1.0315,0.1205,1877,0.3653,1.0
+Cannabis,Cannabis,Extraversion,0.7429,0.6355,0.8685,0.0002,1877,0.3653,0.0091
+Cannabis,Cannabis,Openness,2.2678,1.9568,2.6283,0.0,1877,0.3653,0.0
+Cannabis,Cannabis,Agreeableness,0.9817,0.86,1.1208,0.785,1877,0.3653,1.0
+Cannabis,Cannabis,Conscientiousness,0.702,0.6041,0.8158,0.0,1877,0.3653,0.0002
+Cannabis,Cannabis,Impulsivity,0.9087,0.768,1.0753,0.265,1877,0.3653,1.0
+Cannabis,Cannabis,Sensation seeking,1.9971,1.6629,2.3984,0.0,1877,0.3653,0.0
+Benzos,Depressant,Neuroticism,1.5678,1.3687,1.7959,0.0,1877,0.1353,0.0
+Benzos,Depressant,Extraversion,0.9429,0.8263,1.0759,0.3823,1877,0.1353,1.0
+Benzos,Depressant,Openness,1.345,1.1848,1.5269,0.0,1877,0.1353,0.0002
+Benzos,Depressant,Agreeableness,0.862,0.7656,0.9706,0.0142,1877,0.1353,0.5244
+Benzos,Depressant,Conscientiousness,0.9877,0.866,1.1266,0.854,1877,0.1353,1.0
+Benzos,Depressant,Impulsivity,1.0657,0.9153,1.2408,0.4126,1877,0.1353,1.0
+Benzos,Depressant,Sensation seeking,1.3858,1.1789,1.6291,0.0001,1877,0.1353,0.0038
+Amphet,Stimulant,Neuroticism,1.1257,0.9745,1.3005,0.1077,1877,0.1991,1.0
+Amphet,Stimulant,Extraversion,0.8828,0.7651,1.0186,0.0877,1877,0.1991,1.0
+Amphet,Stimulant,Openness,1.3077,1.1377,1.5031,0.0002,1877,0.1991,0.0077
+Amphet,Stimulant,Agreeableness,0.9143,0.8035,1.0404,0.1743,1877,0.1991,1.0
+Amphet,Stimulant,Conscientiousness,0.8754,0.7577,1.0115,0.071,1877,0.1991,1.0
+Amphet,Stimulant,Impulsivity,1.2812,1.0814,1.5178,0.0042,1877,0.1991,0.1665
+Amphet,Stimulant,Sensation seeking,1.4869,1.2428,1.7789,0.0,1877,0.1991,0.0008
+Coke,Stimulant,Neuroticism,1.2405,1.0738,1.4331,0.0034,1877,0.163,0.1437
+Coke,Stimulant,Extraversion,1.2149,1.0541,1.4001,0.0072,1877,0.163,0.2733
+Coke,Stimulant,Openness,1.0464,0.9135,1.1987,0.513,1877,0.163,1.0
+Coke,Stimulant,Agreeableness,0.8001,0.7034,0.9101,0.0007,1877,0.163,0.0305
+Coke,Stimulant,Conscientiousness,0.8863,0.7678,1.0232,0.0997,1877,0.163,1.0
+Coke,Stimulant,Impulsivity,1.0772,0.9113,1.2732,0.3836,1877,0.163,1.0
+Coke,Stimulant,Sensation seeking,1.5974,1.3359,1.91,0.0,1877,0.163,0.0
+Ecstasy,Stimulant,Neuroticism,1.0091,0.8766,1.1616,0.8994,1877,0.2347,1.0
+Ecstasy,Stimulant,Extraversion,1.184,1.0286,1.363,0.0187,1877,0.2347,0.6721
+Ecstasy,Stimulant,Openness,1.2664,1.1064,1.4496,0.0006,1877,0.2347,0.0275
+Ecstasy,Stimulant,Agreeableness,0.9898,0.8724,1.123,0.8737,1877,0.2347,1.0
+Ecstasy,Stimulant,Conscientiousness,0.8089,0.7024,0.9315,0.0032,1877,0.2347,0.1385
+Ecstasy,Stimulant,Impulsivity,0.9576,0.811,1.1307,0.6093,1877,0.2347,1.0
+Ecstasy,Stimulant,Sensation seeking,1.7095,1.4309,2.0423,0.0,1877,0.2347,0.0
+Mushrooms,Hallucinogen,Neuroticism,0.8864,0.7624,1.0305,0.1167,1877,0.268,1.0
+Mushrooms,Hallucinogen,Extraversion,0.8856,0.7627,1.0284,0.1112,1877,0.268,1.0
+Mushrooms,Hallucinogen,Openness,1.8541,1.5905,2.1615,0.0,1877,0.268,0.0
+Mushrooms,Hallucinogen,Agreeableness,0.9489,0.8282,1.0872,0.4501,1877,0.268,1.0
+Mushrooms,Hallucinogen,Conscientiousness,0.9589,0.8251,1.1144,0.5845,1877,0.268,1.0
+Mushrooms,Hallucinogen,Impulsivity,1.0256,0.857,1.2274,0.7825,1877,0.268,1.0
+Mushrooms,Hallucinogen,Sensation seeking,1.4547,1.2025,1.7598,0.0001,1877,0.268,0.0056
+LSD,Hallucinogen,Neuroticism,0.8437,0.7189,0.9902,0.0375,1877,0.3017,1.0
+LSD,Hallucinogen,Extraversion,0.7892,0.6734,0.9247,0.0034,1877,0.3017,0.1437
+LSD,Hallucinogen,Openness,1.9688,1.6694,2.3219,0.0,1877,0.3017,0.0
+LSD,Hallucinogen,Agreeableness,1.0208,0.8837,1.1791,0.7798,1877,0.3017,1.0
+LSD,Hallucinogen,Conscientiousness,1.0397,0.8864,1.2195,0.6322,1877,0.3017,1.0
+LSD,Hallucinogen,Impulsivity,0.9206,0.7595,1.1159,0.3994,1877,0.3017,1.0
+LSD,Hallucinogen,Sensation seeking,1.6838,1.371,2.0681,0.0,1877,0.3017,0.0
