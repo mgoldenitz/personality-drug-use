@@ -6,10 +6,10 @@ Do Big Five personality traits, impulsivity, and sensation seeking predict use o
 
 ## Key findings
 
-- Sensation seeking goes with last-year use of every substance studied. A person one standard deviation higher on sensation seeking has 1.39 to 2.00 times the odds of having used it in the last year, after adjusting for the other traits, age, gender and education.
-- Openness to experience separates hallucinogens and cannabis from the rest. The odds ratio is 1.97 for LSD, 1.85 for mushrooms and 2.27 for cannabis, against 1.05 for cocaine and 0.86 for alcohol.
-- Neuroticism is linked with one substance: benzodiazepines (odds ratio 1.57), prescription sedatives used for anxiety.
-- Impulsivity adds little once sensation seeking is in the model. The two scores correlate at r = 0.62, and impulsivity's only odds ratio above 1.1 is for amphetamines (1.28, not significant after correction).
+- Sensation seeking is correlated with last-year use of every substance studied. A person one standard deviation higher than the mean on sensation seeking has 1.39 to 2.00 times the odds of having used it in the last year, after adjusting for the other traits, age, gender and education.
+- Openness to experience distinguishes hallucinogens and cannabis from the rest. The odds ratio is 1.97 for LSD, 1.85 for mushrooms, and 2.27 for cannabis, against 1.05 for cocaine and 0.86 for alcohol.
+- Neuroticism is linked with one substance: benzodiazepines (odds ratio 1.57), which are prescription sedatives used for anxiety.
+- Impulsivity scores lower when sensation seeking is included in the model. The two scores correlate at r = 0.62, and the only drug in which impulsivity's odds ratio > 1.1 is for amphetamines (1.28, not significant after correction).
 - 20 of the 63 trait effects (7 traits x 9 substances) stay significant after a Holm correction for multiple testing.
 
 ## Data
@@ -32,7 +32,7 @@ The survey includes Semeron, a drug that doesn't exist, to catch over-claiming. 
 ## Limitations
 
 - The sample is a convenience sample recruited online, mostly in the UK and USA, and is not representative of any population. Its rates of drug use are far higher than in national surveys (20% used LSD in the last year).
-- The data is cross-sectional, so a trait being linked with use doesn't show that the trait leads to use.
+- The data is cross-sectional, so a trait being linked with use doesn't show that the trait causes use.
 - Use is self-reported. The Semeron check catches only the most obvious over-claiming.
 - "Used in the last year" mixes one-time use with heavy use.
 
