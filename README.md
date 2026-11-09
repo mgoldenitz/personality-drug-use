@@ -1,6 +1,6 @@
 # Personality and Drug Use
 
-Do Big Five personality traits, impulsivity and sensation seeking predict use of hallucinogens (LSD, mushrooms) differently from use of alcohol, nicotine, stimulants or benzodiazepines?
+Do Big Five personality traits, impulsivity, and sensation seeking predict use of hallucinogens (LSD, mushrooms) differently from use of alcohol, nicotine, stimulants or benzodiazepines?
 
 ![Odds ratio heatmap](images/odds_ratio_heatmap.png)
 
