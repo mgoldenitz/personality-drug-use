@@ -29,9 +29,9 @@ The survey includes Semeron, a drug that does not exist, to catch over-claiming.
 ## Method
 
 - Outcome: used in the last year or more recently (CL3 to CL6) against not used, for nine substances: alcohol, nicotine, cannabis, benzodiazepines, amphetamines, cocaine, ecstasy, mushrooms and LSD.
-- Model: one logistic regression per substance with all seven traits together, plus age group (18-24, 25-34, 35-44, 45+), gender and holding a university degree. The 45+ band combines three groups because the 55-64 and 65+ groups (111 people) had too few users of some drugs for the models to converge.
+- Model: one logistic regression per substance with all seven traits together, plus age group (18-24, 25-34, 35-44, 45+), gender and holding a university degree. The 45+ band combines three groups because the 55-64 and 65+ groups (111 people) had insufficient data on some drugs for the models to converge.
 - Checks: variance inflation factors, which measure how much the traits overlap with each other, are all under 2 (largest 1.91, sensation seeking). The R script refits every model with `glm()` and matches all 63 Python odds ratios to three decimals.
-- Descriptives: last-year prevalence per substance and, for each trait, the standardized difference (Cohen's d) between last-year users and people who never used the substance.
+- Descriptives: last-year prevalence per substance and, for each trait, the standardized difference (Cohen's d) between people who used the substance last-year and people who never used the substance.
 
 ## Limitations
 
