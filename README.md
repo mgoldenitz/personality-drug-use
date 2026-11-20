@@ -1,6 +1,6 @@
 # Personality and Drug Use
 
-Personality and Drug Use tests whether Big Five personality traits, impulsivity and sensation seeking predict use of hallucinogens (LSD, mushrooms) differently from use of alcohol, nicotine, stimulants or benzodiazepines.
+This project examines whether Big Five personality traits, impulsivity and sensation seeking predict use of hallucinogens (LSD, mushrooms) differently from use of alcohol, nicotine, stimulants or benzodiazepines.
 
 Interactive dashboard: [Personality and Drug Use on Tableau Public](https://public.tableau.com/app/profile/michael.goldenitz/viz/PersonalityandDrugUse/Oddsratio)
 
