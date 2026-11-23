@@ -40,6 +40,12 @@ The survey includes Semeron, a drug that does not exist, to catch over-claiming.
 - Use is self-reported. The Semeron check catches only the most obvious over-claiming, so some reported use may be inflated.
 - "Used in the last year" mixes one-time use with heavy use. The models cannot separate traits linked with trying a drug from traits linked with using it often.
 
+## Diagrams
+
+![Data flow](images/diagram-dataflow.svg)
+
+UCI Drug Consumption file to decoded tables, logistic models and Tableau.
+
 ## Files
 
 - `data/raw/drug_consumption.data`: the UCI file, unchanged
