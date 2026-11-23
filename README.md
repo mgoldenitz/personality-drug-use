@@ -4,7 +4,7 @@ This project examines whether Big Five personality traits, impulsivity and sensa
 
 Interactive dashboard: [Personality and Drug Use on Tableau Public](https://public.tableau.com/app/profile/michael.goldenitz/viz/PersonalityandDrugUse/Dashboard)
 
-![Tableau dashboard](images/tableau_dashboard.png)
+![Tableau dashboard](images/Dashboard.png)
 
 ![Odds ratio heatmap](images/odds_ratio_heatmap.png)
 
