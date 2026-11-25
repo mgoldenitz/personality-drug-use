@@ -59,7 +59,7 @@ UCI Drug Consumption file to decoded tables, logistic models and Tableau.
 ## How to run
 
 ```
-pip install pandas numpy statsmodels matplotlib
+pip install -r requirements.txt
 python scripts/01_decode.py
 python scripts/02_analysis.py
 Rscript scripts/03_models.R
